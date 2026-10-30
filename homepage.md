@@ -1,3 +1,7 @@
+layout: page
+title: "KonaCurrents"
+permalink: /konacurrents
+
 # Kona Currents, LLC
 ![KonaCurrents](KonaCurrentsLabel.jpg)
 
